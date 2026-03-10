@@ -1,0 +1,2 @@
+DJ5eKX8wf6n3Fdl2
+mongodb+srv://saubhagyabaliarsingh624_db_user:DJ5eKX8wf6n3Fdl2@cluster0.6gzuvz8.mongodb.net/Testmanage
